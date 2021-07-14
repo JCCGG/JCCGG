@@ -1,7 +1,9 @@
 ### Hi there 👋
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JCCGG&&hide_border=true&count_private=true&show_icons=true&include_all_commits=true">
+</a>
 
 <!--
-**JCCGG/JCCGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+- 🔭 I want to work for Tencent
+- 🌱 I’m currently learning [Vue.js](https://github.com/vuejs/vue)
+- 🏓 Hobby: code & read
+- 👋 My personal [blog site](http://wwdab.cn/)
+- 💬 Ask me about anything [here](https://github.com/JCCGG/JCCGG/issues)
