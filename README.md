@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-- 🔭 I want to work for Tencent
+- 🔭 I want to work for DJI
 - 🌱 I’m currently learning [Vue.js](https://github.com/vuejs/vue)
 - 🏓 Hobby: code & read
 - 👋 My personal [blog site](http://wwdab.cn/)
