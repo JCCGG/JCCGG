@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🔭 I want to work for DJI
 - 🌱 I’m currently learning [Vue.js](https://github.com/vuejs/vue)
 - 🏓 Hobby: code & read
-- 👋 My personal [blog site](http://wwdab.cn/)
+- 👋 My personal [blog site](https://blog.wwdab.cn/)
 - 💬 Ask me about anything [here](https://github.com/JCCGG/JCCGG/issues)
